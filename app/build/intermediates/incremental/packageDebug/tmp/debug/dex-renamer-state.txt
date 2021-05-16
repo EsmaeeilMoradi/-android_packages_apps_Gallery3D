@@ -1,0 +1,4 @@
+#Sun May 16 14:13:07 IRDT 2021
+base.0=/home/EsmaeeilMoradi/Desktop/AOSP2/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

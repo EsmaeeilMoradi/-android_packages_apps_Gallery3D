@@ -1,0 +1,357 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:3:1-192:12
+INJECTED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:3:1-192:12
+INJECTED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:3:1-192:12
+INJECTED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:3:1-192:12
+INJECTED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:3:1-192:12
+INJECTED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:3:1-192:12
+INJECTED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:3:1-192:12
+	package
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:3:11-39
+		INJECTED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:5:5-36
+		INJECTED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:6:5-63
+	android:versionCode
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:4:5-32
+		INJECTED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:7:5-171:19
+	android:label
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:7:48-80
+	android:debuggable
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:8:9-34
+	android:icon
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:7:18-47
+activity#com.cooliris.media.Gallery
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:9:9-55:20
+	android:clearTaskOnLaunch
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:12:13-45
+	android:stateNotNeeded
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:12:72-101
+	android:label
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:9:43-75
+	android:noHistory
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:12:46-71
+	android:configChanges
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:11:13-63
+	android:theme
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:10:13-71
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:9:19-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:15:27-74
+intent-filter#action:name:android.intent.action.GET_CONTENT+category:name:android.intent.category.OPENABLE+data:mimeType:vnd.android.cursor.dir/image
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.GET_CONTENT
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:18:25-73
+category#android.intent.category.OPENABLE
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:19:27-74
+data
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:20:17-73
+	android:scheme
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:76:23-44
+	android:mimeType
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:20:23-70
+intent-filter#action:name:android.intent.action.GET_CONTENT+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.OPENABLE+data:mimeType:image/*+data:mimeType:video/*
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:22:13-28:29
+category#android.intent.category.DEFAULT
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:25:27-73
+intent-filter#action:name:android.intent.action.PICK+category:name:android.intent.category.DEFAULT+data:mimeType:image/*+data:mimeType:video/*
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:29:13-34:29
+action#android.intent.action.PICK
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:30:25-66
+intent-filter#action:name:android.intent.action.PICK+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.dir/image
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:35:13-39:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.dir/image
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:40:13-44:29
+action#android.intent.action.VIEW
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:41:25-66
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:50:13-54:29
+activity#com.cooliris.media.CropImage
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:56:9-65:20
+	android:label
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:57:64-98
+	android:configChanges
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:57:13-63
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:56:19-43
+intent-filter#action:name:com.android.camera.action.CROP+category:name:android.intent.category.ALTERNATIVE+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.SELECTED_ALTERNATIVE+data:mimeType:image/*
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:58:13-64:29
+	android:label
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:58:28-62
+action#com.android.camera.action.CROP
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:59:17-73
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:59:25-70
+category#android.intent.category.ALTERNATIVE
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:62:17-80
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:62:27-77
+category#android.intent.category.SELECTED_ALTERNATIVE
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:63:17-89
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:63:27-86
+activity#com.cooliris.media.MovieView
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:67:9-95:20
+	android:screenOrientation
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:69:13-50
+	android:label
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:68:13-53
+	android:configChanges
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:70:13-63
+	android:theme
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:71:13-77
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:67:19-43
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:rtsp
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:72:13-77:30
+category#android.intent.category.BROWSABLE
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:75:17-78
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:75:27-75
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/sdp+data:mimeType:video/*
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:78:14-83:30
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:video/3gp+data:mimeType:video/3gpp+data:mimeType:video/3gpp2+data:mimeType:video/mp4+data:mimeType:video/mpeg4+data:scheme:http
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:84:14-94:30
+activity#com.cooliris.media.Photographs
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:97:9-107:20
+	android:icon
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:97:46-75
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:97:19-45
+intent-filter#action:name:android.intent.action.ATTACH_DATA+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:98:13-102:29
+	android:label
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:98:28-74
+action#android.intent.action.ATTACH_DATA
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:99:17-76
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:99:25-73
+intent-filter#action:name:android.intent.action.SET_WALLPAPER+category:name:android.intent.category.DEFAULT
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:103:13-106:29
+	android:label
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:103:28-60
+action#android.intent.action.SET_WALLPAPER
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:104:17-78
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:104:25-75
+provider#com.cooliris.picasa.PicasaContentProvider
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:109:9-113:20
+	android:grantUriPermissions
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:110:13-47
+	android:authorities
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:112:13-70
+	android:label
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:109:19-52
+	android:syncable
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:111:13-36
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:109:53-109
+service#com.cooliris.picasa.PicasaService
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:115:9-120:19
+	android:label
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:115:18-53
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:115:54-102
+intent-filter#action:name:android.content.SyncAdapter
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:116:13-118:29
+action#android.content.SyncAdapter
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:117:17-70
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:117:25-67
+meta-data#android.content.SyncAdapter
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:119:13-105
+	android:resource
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:119:67-102
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:119:24-66
+service#com.cooliris.cache.CacheService
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:122:9-95
+	android:label
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:122:18-46
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:122:47-93
+receiver#com.cooliris.cache.BootReceiver
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:124:9-142:20
+	android:enabled
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:125:13-35
+	android:label
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:124:19-47
+	android:permission
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:125:36-98
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:124:48-94
+intent-filter#action:name:android.intent.action.BOOT_COMPLETE+category:name:android.intent.category.DEFAULT
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:126:13-129:29
+action#android.intent.action.BOOT_COMPLETE
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:128:17-78
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:128:25-75
+intent-filter#action:name:android.intent.action.MEDIA_SCANNER_FINISHED+data:scheme:file
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:130:13-133:29
+action#android.intent.action.MEDIA_SCANNER_FINISHED
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:131:17-87
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:131:25-84
+intent-filter#action:name:android.intent.action.MEDIA_MOUNTED+data:scheme:file
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:134:13-137:29
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:135:17-78
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:135:25-75
+intent-filter#action:name:android.intent.action.MEDIA_EJECT+data:scheme:file
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:138:13-141:29
+action#android.intent.action.MEDIA_EJECT
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:139:17-76
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:139:25-73
+receiver#com.cooliris.media.PhotoAppWidgetProvider
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:144:9-149:20
+	android:label
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:144:57-93
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:144:19-56
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:145:13-147:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:146:17-84
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:146:25-81
+meta-data#android.appwidget.provider
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:148:13-107
+	android:resource
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:148:66-104
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:148:24-65
+activity#com.cooliris.media.PhotoAppWidgetConfigure
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:152:9-156:20
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:152:19-57
+intent-filter#action:name:android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:153:13-155:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:154:17-87
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:154:25-84
+activity#com.cooliris.media.PhotoAppWidgetBind
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:162:9-164:74
+	android:exported
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:162:53-76
+	android:permission
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:164:17-71
+	android:theme
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:163:17-63
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:162:19-52
+receiver#com.cooliris.picasa.PicasaReceiver
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:166:9-170:20
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:166:19-68
+intent-filter#action:name:android.accounts.LOGIN_ACCOUNTS_CHANGED_ACTION
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:167:17-169:33
+action#android.accounts.LOGIN_ACCOUNTS_CHANGED_ACTION
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:168:21-92
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:168:29-90
+uses-sdk
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:173:5-43
+INJECTED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:173:5-43
+INJECTED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:173:5-43
+INJECTED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:173:5-43
+INJECTED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:173:5-43
+	android:targetSdkVersion
+		INJECTED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:173:5-43
+		INJECTED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:173:15-40
+		INJECTED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:174:5-72
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:174:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:175:5-81
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:175:22-78
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:176:5-71
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:176:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:177:5-74
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:177:22-71
+uses-permission#android.permission.INTERNET
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:178:5-67
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:178:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:179:5-66
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:179:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:180:5-68
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:180:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:181:5-81
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:181:22-78
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:182:5-77
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:182:22-74
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:183:5-78
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:183:22-75
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:184:5-74
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:184:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:185:5-79
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:185:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:186:5-81
+	android:name
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:186:22-78
+supports-screens
+ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:188:5-190:37
+	android:largeScreens
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:189:38-65
+	android:smallScreens
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:188:23-51
+	android:normalScreens
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:189:9-37
+	android:anyDensity
+		ADDED from /home/EsmaeeilMoradi/Desktop/AOSP2/app/src/main/AndroidManifest.xml:190:9-34
